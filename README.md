@@ -16,7 +16,7 @@ Not your typical chat export tool!
 - 📦 **Export Ready** — save results as Excel for reporting, tracking, and integration with other systems  
 
 ## 🚀 Why Choose WhatsApp CRM & SRM Assistant?
-Most tools only export WhatsApp chats. **JeffreyWoo WhatsApp CRM & SRM goes further** — embedding AI-driven classification, attachment handling, and workflow automation to help businesses:  
+Most tools only export WhatsApp chats. **JeffreyWoo WhatsApp CRM & SRM** goes further — embedding AI-driven classification, attachment handling, and workflow automation to help businesses:  
 - Automatically transcribe and summarize voice messages  
 - Identify high-priority customers/suppliers instantly  
 - Track inquiries, quotations, follow-ups, contracts, invoices, and complaints  
