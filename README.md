@@ -8,15 +8,16 @@ Not your typical chat export tool!
 
 ## ✨ What It Does
 - 📂 **Parse Chat Logs** — automatically extract date/time, sender, and message content from `_chat.txt`  
-- 📎 **Attachment Matching** — pair messages with voice messages, images, PDFs, Word, Excel, PowerPoint and other files  
+- 📎 **Attachment Matching** — pair messages with voice messages, images, PDFs, Word, Excel, PowerPoint, and other files  
 - 🧑‍💼 **Customer/Supplier Classification** — distinguish customers, vendors, and unknown contacts with intelligent tagging, and categorize contacts as new, existing, inquiry, follow-up, low-priority, or spam   
-- ⚡ **Priority Sorting** — highlight urgent cases (new inquiries, quotations, contracts, invoices, payments, and complaints) vs. general or low-priority chats
-- 🔗 **Attachment Linking** — connect files (voice messages, images, PDFs, Word, Excel, PowerPoint and other files) directly to the right sender and context, and has a preview function for them
-- 📊 **Structured Output** — generate clean tables with all key fields (message, sender, attachments, classification, priority, to-do) and summaries for CRM and SRM workflows 
+- ⚡ **Priority Sorting** — highlight urgent cases (new inquiries, quotations, contracts, invoices, payments, and complaints) vs. general/low-priority chats
+- 🔗 **Attachment Linking** — connect files (voice messages, images, PDFs, Word, Excel, PowerPoint, and other files) directly to the right sender and context, and have a preview function for them
+- 📊 **Structured Output** — generate clean tables with all key fields (message, sender, attachments, classification, priority, to-do) and summaries for CRM and SRM workflows, and automatically transcribe and summarize voice messages  
 - 📦 **Export Ready** — save results as Excel for reporting, tracking, and integration with other systems  
 
 ## 🚀 Why Choose WhatsApp CRM & SRM Assistant?
 Most tools only export WhatsApp chats. **JeffreyWoo WhatsApp CRM & SRM goes further** — embedding AI-driven classification, attachment handling, and workflow automation to help businesses:  
+- Automatically transcribe and summarize voice messages  
 - Identify high-priority customers/suppliers instantly  
 - Track inquiries, quotations, follow-ups, contracts, invoices, and complaints  
 - Reduce manual sorting and improve response times  
