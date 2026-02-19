@@ -30,7 +30,7 @@ Most tools only export WhatsApp chats. **JeffreyWoo WhatsApp CRM & SRM** goes fu
 4. Export results to Excel for further analysis or integration.  
 
 ## ⚖️ Disclaimer
-This application provides AI-driven insights for business workflow support only. It does not replace professional CRM/SRM platforms or guarantee financial, legal, or contractual outcomes. Users should validate outputs before making business-critical decisions.  
+**JeffreyWoo WhatsApp CRM & SRM** provides AI-driven insights for business workflow support only. It does not replace professional CRM/SRM platforms or guarantee financial, legal, or contractual outcomes. Users should validate outputs before making business-critical decisions.  
 
 ## ⚙️ Run Locally
 
