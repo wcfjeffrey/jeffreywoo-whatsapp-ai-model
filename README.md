@@ -50,7 +50,7 @@ This application provides AI-driven insights for business workflow support only.
 <img src="assets/JeffreyWooWhatsApp4.png" alt="JeffreyWooWhatsApp4" width="1200" height="900" />
 <img src="assets/JeffreyWooWhatsApp5.png" alt="JeffreyWooWhatsApp5" width="1200" height="900" />
 <img src="assets/JeffreyWooWhatsApp6.png" alt="JeffreyWooWhatsApp6" width="1200" height="900" />
-<img src="assets/JeffreyWooWhatsApp7.png" alt="JeffreyWooWhatsApp7" width="1200" height="2000" />
+<img src="assets/JeffreyWooWhatsApp7.png" alt="JeffreyWooWhatsApp7" width="1200" height="2600" />
 <img src="assets/JeffreyWooWhatsApp8.png" alt="JeffreyWooWhatsApp8" width="1200" height="900" />
 <img src="assets/JeffreyWooWhatsApp9.png" alt="JeffreyWooWhatsApp9" width="1200" height="900" />
 <img src="assets/JeffreyWooWhatsApp10.png" alt="JeffreyWooWhatsApp10" width="1200" height="900" />
