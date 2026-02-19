@@ -1,0 +1,7 @@
+{
+  "name": "JeffreyWoo WhatsApp CRM & SRM",
+  "description": "An advanced AI-powered assistant that parses WhatsApp chat logs and media, automatically categorizing customers and suppliers, prioritizing tasks, and generating a structured CRM & SRM table.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
