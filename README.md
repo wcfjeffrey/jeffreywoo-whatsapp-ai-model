@@ -11,7 +11,7 @@ Not your typical chat export tool!
 - 📎 **Attachment Matching** — pair messages with voice messages, images, PDFs, Word, Excel, PowerPoint and other files  
 - 🧑‍💼 **Customer/Supplier Classification** — istinguish customers, vendors, and unknown contacts with intelligent tagging, and categorize contacts as new, existing, inquiry, follow-up, low-priority, or spam   
 - ⚡ **Priority Sorting** — highlight urgent cases (new inquiries, quotations, contracts, invoices, payments, and complaints) vs. general or low-priority chats
-- **Attachment Linking** — connect files (voice messages, images, PDFs, Word, Excel, PowerPoint and other files) directly to the right sender and context
+- 🔗 **Attachment Linking** — connect files (voice messages, images, PDFs, Word, Excel, PowerPoint and other files) directly to the right sender and context
 - 📊 **Structured Output** — generate clean tables with all key fields (message, sender, attachments, classification, priority, to-do) and summaries for CRM and SRM workflows 
 - 📦 **Export Ready** — save results as Excel for reporting, tracking, and integration with other systems  
 
