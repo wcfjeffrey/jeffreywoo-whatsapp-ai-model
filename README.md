@@ -24,7 +24,6 @@ Most tools only export WhatsApp chats. **JeffreyWoo WhatsApp CRM & SRM** goes fu
 - Turn unstructured conversations into actionable CRM/SRM data  
 
 ## 🤖 Tech Stack
-
 • **Language** — TypeScript  
 • **Framework** — React (with Vite as the build tool)  
 • **UI** — Standard React components
