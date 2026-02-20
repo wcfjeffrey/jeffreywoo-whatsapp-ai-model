@@ -23,6 +23,12 @@ Most tools only export WhatsApp chats. **JeffreyWoo WhatsApp CRM & SRM** goes fu
 - Reduce manual sorting and improve response times  
 - Turn unstructured conversations into actionable CRM/SRM data  
 
+## 🤖 Tech Stack
+
+• **Language** — TypeScript  
+• **Framework** — React (with Vite as the build tool)  
+• **UI** — Standard React components
+
 ## 📦 Getting Started
 1. Export and upload your WhatsApp chat history (`_chat.txt`) and all related attachments (voice messages, images, PDFs, Word, Excel, PowerPoint, etc.).  
 2. Run **JeffreyWoo WhatsApp CRM & SRM** to parse, classify, and match messages with attachments.  
