@@ -4,7 +4,7 @@
 
 Not your typical chat export tool!
 
-**JeffreyWoo WhatsApp CRM & SRM** is an AI-powered CRM (Customer Relationship Management) & SRM (Supplier Relationship Management) solution that transforms raw WhatsApp conversation logs into structured, searchable, and actionable insights for empowering smarter decisions and faster responses.
+**JeffreyWoo WhatsApp CRM & SRM** is an AI-powered CRM (Customer Relationship Management) & SRM (Supplier Relationship Management) app that transforms raw WhatsApp conversation logs into structured, searchable, and actionable insights for empowering smarter decisions and faster responses.
 
 ## ✨ What It Does
 - 📂 **Parse Chat Logs** — automatically extract date/time, sender, and message content from `_chat.txt`  
