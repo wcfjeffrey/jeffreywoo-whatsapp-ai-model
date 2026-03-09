@@ -41,18 +41,18 @@ This app transforms raw WhatsApp chat exports into structured insights for Custo
 
 ## 💡Finance Transformation Impact
 This project demonstrates how AI reshapes finance workflows by:  
-• Automating unstructured communication into structured financial intelligence for audit readiness.  
-• Enhancing CRM & SRM with AI‑driven classification of senders, enabling accurate tracking of AR, AP & vendor contracts.  
-• Improving operational efficiency through automated prioritization of financial tasks (quotations, invoices, contracts & complaints).  
-• Elevating compliance with built‑in reporting, attachment linking & transcription that supports audit trails.  
-• Driving digital transformation by turning a messaging platform into a strategic finance tool.
+- Automating unstructured communication into structured financial intelligence for audit readiness.  
+- Enhancing CRM & SRM with AI‑driven classification of senders, enabling accurate tracking of AR, AP & vendor contracts.  
+- Improving operational efficiency through automated prioritization of financial tasks (quotations, invoices, contracts & complaints).  
+- Elevating compliance with built‑in reporting, attachment linking & transcription that supports audit trails.  
+- Driving digital transformation by turning a messaging platform into a strategic finance tool.
 
 ## ⭐ Finance Skills Strengthened
-• Full‑stack architecture for AI‑driven financial applications.  
-• Secure handling of chat data & financial records, aligned with compliance.  
-• AI model integration into real‑world messaging workflows.  
-• File parsing & structured data transformation from WhatsApp exports.  
-• Dashboards with React (TypeScript + Vite) to deliver finance insights.
+- Full‑stack architecture for AI‑driven financial applications.  
+- Secure handling of chat data & financial records, aligned with compliance.  
+- AI model integration into real‑world messaging workflows.  
+- File parsing & structured data transformation from WhatsApp exports.  
+- Dashboards with React (TypeScript + Vite) to deliver finance insights.
 
 ## 📦 Getting Started
 1. Export and upload your WhatsApp chat history (`_chat.txt`) and all related attachments (voice messages, images, PDFs, Word, Excel, PowerPoint, etc.).  
