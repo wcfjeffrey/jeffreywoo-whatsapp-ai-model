@@ -29,6 +29,16 @@ Most tools only export WhatsApp chats. **JeffreyWoo WhatsApp CRM & SRM** goes fu
 - **UI** — Standard React components, styled via TSX
 - **Runtime** — Node.js
 
+## 💬 CRM/SRM Theories Embedded in the App
+This app transforms raw WhatsApp chat exports into structured insights for Customer Relationship Management (CRM) and Supplier Relationship Management (SRM). It automates classification, sentiment analysis, and relationship mapping, embedding established CRM/SRM theories into practical workflows:  
+- **Customer Lifecycle Management** — The app applies the Customer Journey framework (awareness → consideration → purchase → retention → advocacy) to classify WhatsApp interactions into lifecycle stages.  
+- **Relationship Marketing Theory** — Inspired by Berry’s relationship marketing principles, the app identifies trust-building and loyalty signals in conversations, highlighting opportunities for long-term engagement.  
+- **Supplier Segmentation Models** — Based on Kraljic’s Portfolio Purchasing Model, the app categorizes suppliers into strategic, leverage, bottleneck, and routine, guiding procurement strategies.  
+- **Customer Equity Framework** — AI evaluates value equity, brand equity, and relationship equity from chat data, helping organizations prioritize high-value customers.  
+- **Service Quality (SERVQUAL) Model** — The app detects service quality dimensions (reliability, responsiveness, assurance, empathy, tangibles) within WhatsApp exchanges, flagging areas for improvement.  
+- **Social Exchange Theory** — Applied to analyze reciprocity and perceived fairness in supplier/customer interactions, supporting sustainable relationship management.  
+- **Knowledge Management in CRM** — Conversations are transformed into structured knowledge bases, aligning with CRM theory that emphasizes information sharing for better decision-making.
+
 ## 💡Finance Transformation Impact
 This project demonstrates how AI reshapes finance workflows by:  
 • Automating unstructured communication into structured financial intelligence for audit readiness.  
