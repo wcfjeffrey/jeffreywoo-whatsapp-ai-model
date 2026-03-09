@@ -29,7 +29,7 @@ Most tools only export WhatsApp chats. **JeffreyWoo WhatsApp CRM & SRM** goes fu
 - **UI** — Standard React components, styled via TSX
 - **Runtime** — Node.js
 
-## 💬 CRM/SRM Theories Embedded in the App
+## 💬 CRM/SRM Theories Applied
 This app transforms raw WhatsApp chat exports into structured insights for Customer Relationship Management (CRM) and Supplier Relationship Management (SRM). It automates classification, sentiment analysis, and relationship mapping, embedding established CRM/SRM theories into practical workflows:  
 - **Customer Lifecycle Management** — The app applies the Customer Journey framework (awareness → consideration → purchase → retention → advocacy) to classify WhatsApp interactions into lifecycle stages.  
 - **Relationship Marketing Theory** — Inspired by Berry’s relationship marketing principles, the app identifies trust-building and loyalty signals in conversations, highlighting opportunities for long-term engagement.  
