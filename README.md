@@ -26,7 +26,8 @@ Most tools only export WhatsApp chats. **JeffreyWoo WhatsApp CRM & SRM** goes fu
 ## 🤖 Tech Stack
 - **Language** — TypeScript  
 - **Framework** — React (with Vite as the build tool)  
-- **UI** — Standard React components
+- **UI** — Standard React components, styled via TSX
+- **Runtime** — Node.js
 
 ## 💡Finance Transformation Impact
 This project demonstrates how AI reshapes finance workflows by:  
