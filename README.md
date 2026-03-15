@@ -41,11 +41,11 @@ This app transforms raw WhatsApp chat exports into structured insights for Custo
 
 ## 💡Finance Transformation Impact
 This project demonstrates how AI reshapes finance workflows by:  
-- Automating unstructured communication into structured financial intelligence for audit readiness.  
-- Enhancing CRM & SRM with AI‑driven classification of senders, enabling accurate tracking of AR, AP & vendor contracts.  
+- Converting unstructured WhatsApp communication data into audit‑ready financial intelligence, strengthening internal controls and reducing manual audit effort.  
+- Enhancing CRM/SRM with AI‑driven sender classification, enabling real‑time AR/AP, quotation, and contract visibility for stronger cash‑flow and vendor management.  
 - Improving operational efficiency through automated prioritization of financial tasks (quotations, invoices, contracts & complaints).  
-- Elevating compliance with built‑in reporting, attachment linking & transcription that supports audit trails.  
-- Driving digital transformation by turning a messaging platform into a strategic finance tool.
+- Strengthening compliance through automated reporting, attachment linking, and AI transcription to create complete, traceable audit trails.  
+- Driving digital transformation by turning the WhatsApp messaging platform into a strategic finance system with AI‑powered AR/AP monitoring and audit‑aligned documentation.
 
 ## ⭐ Finance Skills Strengthened
 - Full‑stack architecture for AI‑driven financial applications.  
