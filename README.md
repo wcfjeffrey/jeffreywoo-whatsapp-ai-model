@@ -2,6 +2,8 @@
 <img src="assets/JeffreyWooWhatsApp.png" alt="JeffreyWooWhatsAppBanner" width="1200" height="900" />
 </div>
 
+## 📊 Overview
+
 Not your typical chat export tool!
 
 **JeffreyWoo WhatsApp CRM & SRM** is an AI-powered CRM (Customer Relationship Management) & SRM (Supplier Relationship Management) app that transforms raw WhatsApp conversation logs into structured, searchable, and actionable insights for empowering smarter decisions and faster responses.
