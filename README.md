@@ -102,3 +102,10 @@ This project demonstrates how AI reshapes finance workflows by:
 <img src="assets/JeffreyWooWhatsApp14.png" alt="JeffreyWooWhatsApp14" width="1200" height="900" />
 <img src="assets/JeffreyWooWhatsApp15.png" alt="JeffreyWooWhatsApp15" width="1200" height="900" />
 <img src="assets/JeffreyWooWhatsApp16.png" alt="JeffreyWooWhatsApp16" width="1200" height="900" />
+
+## 👤 About the Author
+Jeffrey Woo — Finance Manager | Strategic FP&A, AI Automation & Cost Optimization | MBA | FCCA | CTA | FTIHK | SAP Financial Accounting (FI) Certified Application Associate | Xero Advisor Certified
+
+📧 Email: jeffreywoocf@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/wcfjeffrey/  
+🐙 GitHub: https://github.com/wcfjeffrey/
