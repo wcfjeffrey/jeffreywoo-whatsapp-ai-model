@@ -26,6 +26,14 @@
 - 📊 **Structured Output** — generate clean tables with all key fields (message, sender, attachments, classification, priority, to-do) and summaries for CRM and SRM workflows, and automatically transcribe and summarize voice messages  
 - 📦 **Export Ready** — save results as Excel for reporting, tracking, and integration with other systems  
 
+## 💡Finance Transformation Impact
+This project demonstrates how AI reshapes finance workflows by:  
+- Converting unstructured WhatsApp communication data into audit‑ready financial intelligence, strengthening internal controls and reducing manual audit effort.  
+- Enhancing CRM/SRM with AI‑driven sender classification, enabling real‑time AR/AP, quotation, and contract visibility for stronger cash‑flow and vendor management.  
+- Improving operational efficiency through automated prioritization of financial tasks (quotations, invoices, contracts & complaints).  
+- Strengthening compliance through automated reporting, attachment linking, and AI transcription to create complete, traceable audit trails.  
+- Driving digital transformation by turning the WhatsApp messaging platform into a strategic finance system with AI‑powered AR/AP monitoring and audit‑aligned documentation.
+
 ## 🚀 Why Choose WhatsApp CRM & SRM Assistant?
 Most tools only export WhatsApp chats. **JeffreyWoo WhatsApp CRM & SRM** goes further — embedding AI-driven classification, attachment handling, and workflow automation to help businesses:  
 - Automatically transcribe and summarize voice messages  
@@ -33,12 +41,6 @@ Most tools only export WhatsApp chats. **JeffreyWoo WhatsApp CRM & SRM** goes fu
 - Track inquiries, quotations, follow-ups, contracts, invoices, and complaints  
 - Reduce manual sorting and improve response times  
 - Turn unstructured conversations into actionable CRM/SRM data  
-
-## 🤖 Tech Stack
-- **Language** — TypeScript, HTML  
-- **Framework** — React (with Vite as the build tool)  
-- **UI** — Standard React components, styled via TSX
-- **Runtime** — Node.js
 
 ## 💬 CRM/SRM Theories Applied
 This app transforms raw WhatsApp chat exports into structured insights for Customer Relationship Management (CRM) and Supplier Relationship Management (SRM). It automates classification, sentiment analysis, and relationship mapping, embedding established CRM/SRM theories into practical workflows:  
@@ -50,14 +52,6 @@ This app transforms raw WhatsApp chat exports into structured insights for Custo
 - **Social Exchange Theory** — Applied to analyze reciprocity and perceived fairness in supplier/customer interactions, supporting sustainable relationship management.  
 - **Knowledge Management in CRM** — Conversations are transformed into structured knowledge bases, aligning with CRM theory that emphasizes information sharing for better decision-making.
 
-## 💡Finance Transformation Impact
-This project demonstrates how AI reshapes finance workflows by:  
-- Converting unstructured WhatsApp communication data into audit‑ready financial intelligence, strengthening internal controls and reducing manual audit effort.  
-- Enhancing CRM/SRM with AI‑driven sender classification, enabling real‑time AR/AP, quotation, and contract visibility for stronger cash‑flow and vendor management.  
-- Improving operational efficiency through automated prioritization of financial tasks (quotations, invoices, contracts & complaints).  
-- Strengthening compliance through automated reporting, attachment linking, and AI transcription to create complete, traceable audit trails.  
-- Driving digital transformation by turning the WhatsApp messaging platform into a strategic finance system with AI‑powered AR/AP monitoring and audit‑aligned documentation.
-
 ## ⭐ Finance Skills Strengthened
 - Full‑stack architecture for AI‑driven financial applications.  
 - Secure handling of chat data & financial records, aligned with compliance.  
@@ -65,14 +59,17 @@ This project demonstrates how AI reshapes finance workflows by:
 - File parsing & structured data transformation from WhatsApp exports.  
 - Dashboards with React (TypeScript + Vite) to deliver finance insights.
 
+## 🤖 Tech Stack
+- **Language** — TypeScript, HTML  
+- **Framework** — React (with Vite as the build tool)  
+- **UI** — Standard React components, styled via TSX
+- **Runtime** — Node.js
+- 
 ## 📦 Getting Started
 1. Export and upload your WhatsApp chat history (`_chat.txt`) and all related attachments (voice messages, images, PDFs, Word, Excel, PowerPoint, etc.).  
 2. Run **JeffreyWoo WhatsApp CRM & SRM** to parse, classify, and match messages with attachments.  
 3. Review the generated structured table with customer/supplier classification, priority, and to-do items.  
 4. Export results to Excel for further analysis or integration.  
-
-## ⚖️ Disclaimer
-**JeffreyWoo WhatsApp CRM & SRM** provides AI-driven insights for business workflow support only. It does not replace professional CRM/SRM platforms or guarantee financial, legal, or contractual outcomes. Users should validate outputs before making business-critical decisions.  
 
 ## ⚙️ Run Locally
 
@@ -102,6 +99,9 @@ This project demonstrates how AI reshapes finance workflows by:
 <img src="assets/JeffreyWooWhatsApp14.png" alt="JeffreyWooWhatsApp14" width="1200" height="900" />
 <img src="assets/JeffreyWooWhatsApp15.png" alt="JeffreyWooWhatsApp15" width="1200" height="900" />
 <img src="assets/JeffreyWooWhatsApp16.png" alt="JeffreyWooWhatsApp16" width="1200" height="900" />
+
+## ⚖️ Disclaimer
+**JeffreyWoo WhatsApp CRM & SRM** provides AI-driven insights for business workflow support only. It does not replace professional CRM/SRM platforms or guarantee financial, legal, or contractual outcomes. Users should validate outputs before making business-critical decisions.  
 
 ## 👤 About the Author
 Jeffrey Woo — Finance Manager | Strategic FP&A, AI Automation & Cost Optimization | MBA | FCCA | CTA | FTIHK | SAP Financial Accounting (FI) Certified Application Associate | Xero Advisor Certified
