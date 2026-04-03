@@ -101,7 +101,13 @@ This app transforms raw WhatsApp chat exports into structured insights for Custo
 <img src="assets/JeffreyWooWhatsApp16.png" alt="JeffreyWooWhatsApp16" width="1200" height="900" />
 
 ## ⚖️ Disclaimer
-**JeffreyWoo WhatsApp CRM & SRM** provides AI-driven insights for business workflow support only. It does not replace professional CRM/SRM platforms or guarantee financial, legal, or contractual outcomes. Users should validate outputs before making business-critical decisions.  
+**JeffreyWoo WhatsApp CRM & SRM** provides AI-driven insights for informational, educational, and demonstration purposes only. It does not replace professional CRM/SRM platforms or guarantee financial, legal, or contractual outcomes. It does not constitute professional advice of any kind, including but not limited to legal, financial, medical, or relationship advice.
+
+The AI‑generated responses and interactions are produced by machine learning models and may be inaccurate, inappropriate, or offensive. The app is not intended to replace human judgment or professional services.
+
+Users should validate outputs before making business-critical decisions. The developer assumes no liability for any damages, misunderstandings, or harms arising from the use of this software.
+
+Use at your own risk.
 
 ## 👤 About the Author
 Jeffrey Woo — Finance Manager | Strategic FP&A, AI Automation & Cost Optimization | MBA | FCCA | CTA | FTIHK | SAP Financial Accounting (FI) Certified Application Associate | Xero Advisor Certified
