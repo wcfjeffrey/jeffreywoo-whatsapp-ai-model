@@ -52,6 +52,53 @@ This app transforms raw WhatsApp chat exports into structured insights for Custo
 - **Social Exchange Theory** — Applied to analyze reciprocity and perceived fairness in supplier/customer interactions, supporting sustainable relationship management.  
 - **Knowledge Management in CRM** — Conversations are transformed into structured knowledge bases, aligning with CRM theory that emphasizes information sharing for better decision-making.
 
+## 📐Data Flow and Logic Sequence
+
+The following diagram illustrates how the system transforms raw WhatsApp chat exports into structured CRM/SRM intelligence — from file upload through chat parsing, voice transcription, Gemini API classification (applying Customer Lifecycle, Kraljic Model, and Social Exchange Theory), to final Excel export — integrating the relationship management theories described above at each stage.
+
+> **How to read this diagram:** The flow follows 4 phases:
+> 1. **Data Upload** — WhatsApp `_chat.txt` + attachments (images, PDFs, voice, Office files)
+> 2. **Chat Parsing** — Extract sender, date/time, message; match attachments; transcribe voice
+> 3. **AI Classification** — Customer/vendor/supplier classification via Gemini API; apply Kraljic and Customer Journey models
+> 4. **Output Generation** — Structured table with priority, to-do items; Excel export
+
+```mermaid
+flowchart TD
+    subgraph PHASE1["Phase 1: Data Upload"]
+        direction TB
+        A1["Export WhatsApp Chat"] --> A2["Upload _chat.txt"]
+        A2 --> A3["Upload Attachments Images/PDF/Voice/Office"]
+        A3 --> A4["Files Sent to Backend"]
+    end
+
+    subgraph PHASE2["Phase 2: Chat Parsing"]
+        direction TB
+        B1["Extract Date/Time/Sender/Message"] --> B2["Parse WhatsApp Format"]
+        B2 --> B3["Match Attachments to Messages"]
+        B3 --> B4["Transcribe Voice Messages"]
+    end
+
+    subgraph PHASE3["Phase 3: AI Classification"]
+        direction TB
+        C1["Gemini API Analysis"] --> C2["Classify Sender Type"]
+        C2 --> C3["Customer/Vendor/Unknown"]
+        C3 --> C4["Apply Kraljic Model for Suppliers"]
+        C4 --> C5["Apply Customer Journey Framework"]
+        C5 --> C6["Assign Priority Level"]
+    end
+
+    subgraph PHASE4["Phase 4: Output Generation"]
+        direction TB
+        D1["Generate Structured Table"] --> D2["Show Message/Sender/Attachments"]
+        D2 --> D3["Display Classification/Priority/To-Do"]
+        D3 --> D4["Export to Excel"]
+    end
+
+    A4 --> B1
+    B4 --> C1
+    C6 --> D1
+```
+
 ## ⭐ Finance Skills Strengthened
 - Full‑stack architecture for AI‑driven financial applications.  
 - Secure handling of chat data & financial records, aligned with compliance.  
@@ -99,45 +146,6 @@ This app transforms raw WhatsApp chat exports into structured insights for Custo
 <img src="assets/JeffreyWooWhatsApp14.png" alt="JeffreyWooWhatsApp14" width="1200" height="900" />
 <img src="assets/JeffreyWooWhatsApp15.png" alt="JeffreyWooWhatsApp15" width="1200" height="900" />
 <img src="assets/JeffreyWooWhatsApp16.png" alt="JeffreyWooWhatsApp16" width="1200" height="900" />
-
-## 📐Data Flow and Logic Sequence
-
-```mermaid
-flowchart TD
-    subgraph PHASE1["Phase 1: Data Upload"]
-        direction TB
-        A1["Export WhatsApp Chat"] --> A2["Upload _chat.txt"]
-        A2 --> A3["Upload Attachments Images/PDF/Voice/Office"]
-        A3 --> A4["Files Sent to Backend"]
-    end
-
-    subgraph PHASE2["Phase 2: Chat Parsing"]
-        direction TB
-        B1["Extract Date/Time/Sender/Message"] --> B2["Parse WhatsApp Format"]
-        B2 --> B3["Match Attachments to Messages"]
-        B3 --> B4["Transcribe Voice Messages"]
-    end
-
-    subgraph PHASE3["Phase 3: AI Classification"]
-        direction TB
-        C1["Gemini API Analysis"] --> C2["Classify Sender Type"]
-        C2 --> C3["Customer/Vendor/Unknown"]
-        C3 --> C4["Apply Kraljic Model for Suppliers"]
-        C4 --> C5["Apply Customer Journey Framework"]
-        C5 --> C6["Assign Priority Level"]
-    end
-
-    subgraph PHASE4["Phase 4: Output Generation"]
-        direction TB
-        D1["Generate Structured Table"] --> D2["Show Message/Sender/Attachments"]
-        D2 --> D3["Display Classification/Priority/To-Do"]
-        D3 --> D4["Export to Excel"]
-    end
-
-    A4 --> B1
-    B4 --> C1
-    C6 --> D1
-```
 
 ## ⚖️ Disclaimer
 **JeffreyWoo WhatsApp CRM & SRM** provides AI-driven insights for informational, educational, and demonstration purposes only. It does not replace professional CRM/SRM platforms or guarantee financial, legal, or contractual outcomes. It does not constitute professional advice of any kind, including but not limited to legal, financial, medical, or relationship advice.
