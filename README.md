@@ -147,6 +147,60 @@ flowchart TD
 <img src="assets/JeffreyWooWhatsApp15.png" alt="JeffreyWooWhatsApp15" width="1200" height="900" />
 <img src="assets/JeffreyWooWhatsApp16.png" alt="JeffreyWooWhatsApp16" width="1200" height="900" />
 
+## References
+
+**1. CRM & SRM Theories**
+
+**Customer Lifecycle Management (The app applies the Customer Journey framework (awareness → consideration → purchase → retention → advocacy) to classify WhatsApp interactions into lifecycle stages)**
+
+- [Kotler, P., & Keller, K. L. (2016). Marketing management (15th ed.). Pearson.](https://dspace.vnbrims.org/items/0c7f6bb2-d512-42bb-ba5a-784329214f18/full)
+- [Court, D., Elzinga, D., Mulder, S., & Vetvik, O. J. (2009). The consumer decision journey. McKinsey Quarterly, June 2009.](https://maxket.com/wp-content/uploads/2014/08/theconsumerdecisionjourney-110105124644-phpapp02.pdf)
+
+**Relationship Marketing Theory (the app identifies trust-building and loyalty signals in conversations, highlighting opportunities for long-term engagement)**
+
+- [Berry, L. L. (1983). Relationship marketing. In L. L. Berry, G. L. Shostack, & G. D. Upah (Eds.), Emerging perspectives on services marketing (pp. 25–28). American Marketing Association.](https://books.google.com.hk/books/about/Emerging_Perspectives_on_Services_Market.html?id=bQgpAQAAMAAJ&redir_esc=y)
+- [Morgan, R. M., & Hunt, S. D. (1994). The commitment-trust theory of relationship marketing. Journal of Marketing, 58(3), 20–38.](https://www.researchgate.net/publication/233894851_The_Commitment-Trust_Theory_of_Relationship_Marketing)
+
+**Supplier Segmentation (Kraljic's Portfolio Purchasing Model, categorizing suppliers into strategic, leverage, bottleneck, and routine quadrants, guiding procurement strategies based on profit impact and supply risk)**
+
+- [Kraljic, P. (1983). Purchasing must become supply management. Harvard Business Review, 61(5), 109–117.](https://www.abaspro.com.ar/wp-content/uploads/2019/05/Kraljic.pdf)
+
+**Customer Equity Framework (AI evaluates value equity, brand equity, and relationship equity from chat data, helping organizations prioritize high-value customers)**
+
+- [Rust, R. T., Zeithaml, V. A., & Lemon, K. N. (2000). Driving customer equity: How customer lifetime value is reshaping corporate strategy. The Free Press.](https://www.researchgate.net/publication/280726122_Driving_Customer_Equity_How_Customer_Lifetime_Value_Is_Reshaping_Corporate_Strategy20021Roland_T_Rust_Valarie_Zeithaml_Katherine_N_Lemon_Driving_Customer_Equity_How_Customer_Lifetime_Value_Is_Reshapin)
+
+**Service Quality (SERVQUAL) Model (with service quality dimensions (reliability, responsiveness, assurance, empathy, tangibles) within WhatsApp exchanges, flagging areas for improvement)**
+
+- [Parasuraman, A., Zeithaml, V. A., & Berry, L. L. (1988). SERVQUAL: A multiple-item scale for measuring consumer perceptions of service quality. Journal of Retailing, 64(1), 12–40.](https://www.researchgate.net/publication/200827786_SERVQUAL_A_Multiple-item_Scale_for_Measuring_Consumer_Perceptions_of_Service_Quality)
+
+**Social Exchange Theory (Applied to analyze reciprocity and perceived fairness in supplier/customer interactions, supporting sustainable relationship management)**
+
+- [Homans, G. C. (1958). Social behavior as exchange. American Journal of Sociology, 63(6), 597–606.](https://web.ics.purdue.edu/~hoganr/SOC%20602/Spring%202014/Homans%201958.pdf)
+- [Blau, P. M. (1964). Exchange and power in social life. John Wiley & Sons.](https://ia801700.us.archive.org/6/items/in.ernet.dli.2015.118920/2015.118920.Exchange-And-Power-In-Social-Life_text.pdf)
+
+**Knowledge Management in CRM (Conversations are transformed into structured knowledge bases, aligning with CRM theory that emphasizes information sharing for better decision-making)**
+
+- [Nonaka, I., & Takeuchi, H. (1995). The knowledge-creating company: How Japanese companies create the dynamics of innovation. Oxford University Press.](https://www.researchgate.net/publication/384316693_The_knowledge-creating_company_How_Japanese_companies_create_the_dynamics_of_innovation_by_Nonaka_Ikujiro_Takeuchi_Hirotaka_New_York_Oxford_University_Press_1995_284_pp_1939_Hardcover_740_paperback_IS)
+
+**2. Technology Stack**
+
+**Gemini API (AI-powered classification – classifies sender type (customer/vendor/unknown), applies Kraljic Model for suppliers, applies Customer Journey Framework, and assigns priority levels)**
+
+- [Gemini Team, Google. Gemini API.](https://ai.google.dev/gemini-api/docs)
+
+**React (with Vite) & TypeScript (Interactive dashboards displaying structured tables with message, sender, attachments, classification, priority, and to-do items)**
+
+- [Biasi, B. Vite: Next Generation Frontend Tooling.](https://vite.dev/)
+- [Facebook Open Source. React: The Library for Web and Native User Interfaces.](https://github.com/facebook/react)
+
+**Node.js Runtime (Backend runtime environment for the application)**
+
+- [Node.js Foundation. Node.js® JavaScript Runtime.](https://nodejs.org/)
+
+**WhatsApp Chat Format (extracting date/time, sender, and message content, and matches attachments to messages)**
+
+- [WhatsApp LLC. (2024). Export chat history from WhatsApp.](https://faq.whatsapp.com/1180414079177245/)
+
 ## ⚖️ Disclaimer
 **JeffreyWoo WhatsApp CRM & SRM** provides AI-driven insights for informational, educational, and demonstration purposes only. It does not replace professional CRM/SRM platforms or guarantee financial, legal, or contractual outcomes. It does not constitute professional advice of any kind, including but not limited to legal, financial, medical, or relationship advice.
 
