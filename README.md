@@ -147,7 +147,7 @@ flowchart TD
 <img src="assets/JeffreyWooWhatsApp15.png" alt="JeffreyWooWhatsApp15" width="1200" height="900" />
 <img src="assets/JeffreyWooWhatsApp16.png" alt="JeffreyWooWhatsApp16" width="1200" height="900" />
 
-## References
+## 📚 References
 
 **1. CRM & SRM Theories**
 
